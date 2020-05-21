@@ -1,0 +1,13 @@
+C:\Users\Laptop_MP1KGQ3J\Documents\holbertonschool-unity\0x03-csharp-hashset_stack_queue_linkedlist\0-unique_add\bin\Debug\netcoreapp3.1\0-unique_add.exe
+C:\Users\Laptop_MP1KGQ3J\Documents\holbertonschool-unity\0x03-csharp-hashset_stack_queue_linkedlist\0-unique_add\bin\Debug\netcoreapp3.1\0-unique_add.deps.json
+C:\Users\Laptop_MP1KGQ3J\Documents\holbertonschool-unity\0x03-csharp-hashset_stack_queue_linkedlist\0-unique_add\bin\Debug\netcoreapp3.1\0-unique_add.runtimeconfig.json
+C:\Users\Laptop_MP1KGQ3J\Documents\holbertonschool-unity\0x03-csharp-hashset_stack_queue_linkedlist\0-unique_add\bin\Debug\netcoreapp3.1\0-unique_add.runtimeconfig.dev.json
+C:\Users\Laptop_MP1KGQ3J\Documents\holbertonschool-unity\0x03-csharp-hashset_stack_queue_linkedlist\0-unique_add\bin\Debug\netcoreapp3.1\0-unique_add.dll
+C:\Users\Laptop_MP1KGQ3J\Documents\holbertonschool-unity\0x03-csharp-hashset_stack_queue_linkedlist\0-unique_add\bin\Debug\netcoreapp3.1\0-unique_add.pdb
+C:\Users\Laptop_MP1KGQ3J\Documents\holbertonschool-unity\0x03-csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\netcoreapp3.1\0-unique_add.csprojAssemblyReference.cache
+C:\Users\Laptop_MP1KGQ3J\Documents\holbertonschool-unity\0x03-csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\netcoreapp3.1\0-unique_add.csproj.CoreCompileInputs.cache
+C:\Users\Laptop_MP1KGQ3J\Documents\holbertonschool-unity\0x03-csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\netcoreapp3.1\0-unique_add.AssemblyInfoInputs.cache
+C:\Users\Laptop_MP1KGQ3J\Documents\holbertonschool-unity\0x03-csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\netcoreapp3.1\0-unique_add.AssemblyInfo.cs
+C:\Users\Laptop_MP1KGQ3J\Documents\holbertonschool-unity\0x03-csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\netcoreapp3.1\0-unique_add.dll
+C:\Users\Laptop_MP1KGQ3J\Documents\holbertonschool-unity\0x03-csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\netcoreapp3.1\0-unique_add.pdb
+C:\Users\Laptop_MP1KGQ3J\Documents\holbertonschool-unity\0x03-csharp-hashset_stack_queue_linkedlist\0-unique_add\obj\Debug\netcoreapp3.1\0-unique_add.genruntimeconfig.cache

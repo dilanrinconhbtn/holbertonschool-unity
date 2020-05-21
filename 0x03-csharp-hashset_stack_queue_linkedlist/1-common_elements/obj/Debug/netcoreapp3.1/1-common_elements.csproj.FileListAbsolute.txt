@@ -1,0 +1,13 @@
+C:\Users\Laptop_MP1KGQ3J\Documents\holbertonschool-unity\0x03-csharp-hashset_stack_queue_linkedlist\1-common_elements\bin\Debug\netcoreapp3.1\1-common_elements.exe
+C:\Users\Laptop_MP1KGQ3J\Documents\holbertonschool-unity\0x03-csharp-hashset_stack_queue_linkedlist\1-common_elements\bin\Debug\netcoreapp3.1\1-common_elements.deps.json
+C:\Users\Laptop_MP1KGQ3J\Documents\holbertonschool-unity\0x03-csharp-hashset_stack_queue_linkedlist\1-common_elements\bin\Debug\netcoreapp3.1\1-common_elements.runtimeconfig.json
+C:\Users\Laptop_MP1KGQ3J\Documents\holbertonschool-unity\0x03-csharp-hashset_stack_queue_linkedlist\1-common_elements\bin\Debug\netcoreapp3.1\1-common_elements.runtimeconfig.dev.json
+C:\Users\Laptop_MP1KGQ3J\Documents\holbertonschool-unity\0x03-csharp-hashset_stack_queue_linkedlist\1-common_elements\bin\Debug\netcoreapp3.1\1-common_elements.dll
+C:\Users\Laptop_MP1KGQ3J\Documents\holbertonschool-unity\0x03-csharp-hashset_stack_queue_linkedlist\1-common_elements\bin\Debug\netcoreapp3.1\1-common_elements.pdb
+C:\Users\Laptop_MP1KGQ3J\Documents\holbertonschool-unity\0x03-csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\netcoreapp3.1\1-common_elements.csprojAssemblyReference.cache
+C:\Users\Laptop_MP1KGQ3J\Documents\holbertonschool-unity\0x03-csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\netcoreapp3.1\1-common_elements.csproj.CoreCompileInputs.cache
+C:\Users\Laptop_MP1KGQ3J\Documents\holbertonschool-unity\0x03-csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\netcoreapp3.1\1-common_elements.AssemblyInfoInputs.cache
+C:\Users\Laptop_MP1KGQ3J\Documents\holbertonschool-unity\0x03-csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\netcoreapp3.1\1-common_elements.AssemblyInfo.cs
+C:\Users\Laptop_MP1KGQ3J\Documents\holbertonschool-unity\0x03-csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\netcoreapp3.1\1-common_elements.dll
+C:\Users\Laptop_MP1KGQ3J\Documents\holbertonschool-unity\0x03-csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\netcoreapp3.1\1-common_elements.pdb
+C:\Users\Laptop_MP1KGQ3J\Documents\holbertonschool-unity\0x03-csharp-hashset_stack_queue_linkedlist\1-common_elements\obj\Debug\netcoreapp3.1\1-common_elements.genruntimeconfig.cache
